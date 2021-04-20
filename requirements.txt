@@ -23,7 +23,7 @@ Pillow==7.1.2
 PlayerPoints==2.0
 pluggy==0.13.1
 pre-commit==2.4.0
-py==1.8.1
+py==1.10.0
 PyJWT==1.7.1
 pyparsing==2.4.7
 PyPDF2==1.26.0
