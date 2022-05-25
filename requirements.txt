@@ -24,7 +24,7 @@ PlayerPoints==2.0
 pluggy==0.13.1
 pre-commit==2.4.0
 py==1.8.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 PyPDF2==1.26.0
 PyQt5==5.13.2
